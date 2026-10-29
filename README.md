@@ -1,4 +1,3 @@
-# Experimentation Platform
 
 # Experimentation and Causal Inference Platform
 
