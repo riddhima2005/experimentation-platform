@@ -29,7 +29,7 @@ Checks whether a change really caused a result or whether it happened by luck. C
 
 - `Experimentation_Platform.ipynb`: all analysis, with markdown notes for each method
 - `ab_api.py`: FastAPI backend that runs the A/B test
-- `ab-frontend`: React page that calls the backend (see the [frontend repo](https://github.com/yourusername/ab-frontend))
+- `ab-frontend`: React page that calls the backend (see the [frontend repo](https://github.com/riddhima2005/ab-frontend))
 
 ## Setup
 
