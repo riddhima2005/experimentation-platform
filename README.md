@@ -1,1 +1,1 @@
-# experimentation-platform
+# Experimentation Platform
